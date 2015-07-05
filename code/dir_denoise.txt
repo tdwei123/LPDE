@@ -1,0 +1,5 @@
+data//denoise//gaussian//25
+noise
+ori
+test
+lpde
