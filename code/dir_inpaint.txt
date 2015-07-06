@@ -1,7 +1,0 @@
-data//inpaint//exp1
-input
-output
-test
-lpde
-inmask
-testmask
